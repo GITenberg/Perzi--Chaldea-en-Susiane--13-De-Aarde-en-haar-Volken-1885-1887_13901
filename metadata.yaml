@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5280
     wikipedia: http://fr.wikipedia.org/wiki/Jane_Dieulafoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13901#Perzi--Chaldea-en-Susiane--13-De-Aarde-en-haar-Volken-1885-1887
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2004-10-31'
 gutenberg_type: Text
